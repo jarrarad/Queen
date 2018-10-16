@@ -25,7 +25,7 @@ App.Entity.PlayerState = function (){
     this.LastUsedMakeup = "minimal blush and lipstick";
     this.LastUsedHair = "a spunky boy cut";
     this.LastQuickWardrobe = "Best Clothes";
-    this.debugMode = false;
+    this.debugMode = true;
     this.difficultySetting = 1;
     this.WhoreTutorial = false;
 
